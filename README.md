@@ -1,1 +1,1 @@
-
+##### Important elements and metrics of business and contemporary engineering economics: wealth creation, cash flow diagrams, internal rate of return, net present value, breakeven analysis, companies, corporations, profits, prices, balance sheets, income statements, and the basics of business plan writing. Particular emphasis is given to preparation for the economic analysis component of engineering practice.
